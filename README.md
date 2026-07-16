@@ -1,46 +1,72 @@
 # P&C Actuarial Project Portfolio
 
-This repository is a growing collection of property and casualty actuarial analytics projects built with Python. The current completed project focuses on loss reserving, with additional pricing and modeling projects planned for future updates.
+This repository contains completed property and casualty actuarial analytics projects built with Python. The portfolio covers loss reserving and personal auto insurance pricing, combining reproducible modeling workflows with actuarial interpretation and business-oriented communication.
 
-## Completed Project
+## Completed Projects
 
 ### Project 1: P&C Loss Reserving
 
-Notebook: `p_and_c_loss_reserving.ipynb`
+Notebook: [`p_and_c_loss_reserving.ipynb`](p_and_c_loss_reserving.ipynb)
 
-This project demonstrates a property and casualty loss reserving workflow using Chain Ladder and Bornhuetter-Ferguson methods. The analysis is designed to show both the technical calculation process and the actuarial interpretation behind reserve estimates.
+This project demonstrates a property and casualty loss reserving workflow using Chain Ladder and Bornhuetter-Ferguson methods. The analysis shows both the technical calculation process and the actuarial interpretation behind reserve estimates.
 
-The notebook includes:
+Key topics:
 
-- Construction of a cumulative paid loss triangle
-- Calculation of age-to-age loss development factors
-- Selection of cumulative development factors to ultimate
+- Cumulative paid loss triangles
+- Age-to-age loss development factors
+- Cumulative development factors to ultimate
 - Chain Ladder ultimate loss and IBNR estimates
 - Bornhuetter-Ferguson reserve estimates
-- Comparison of reserving methods by accident year
-- Diagnostic charts for reserve patterns and development factors
-- A written actuarial memo summarizing methodology, results, and limitations
+- Reserve method comparison and diagnostic charts
+- Actuarial memo writing and result communication
+
+### Project 2: Auto Insurance Pure Premium Modeling
+
+Notebook: [`auto_insurance_pricing_v2.ipynb`](auto_insurance_pricing_v2.ipynb)
+
+This project demonstrates an end-to-end personal auto insurance pricing workflow, from policy and claim data preparation through frequency and severity modeling, pure premium estimation, model validation, and actuarial interpretation. It compares traditional actuarial GLMs with machine learning challenger models.
+
+Key topics:
+
+- Policy and claim data preparation
+- Claim frequency modeling
+- Claim severity modeling
+- Poisson GLM with exposure offset
+- Gamma GLM severity modeling
+- Pure premium construction
+- Gradient boosting challenger models
+- Lift charts and actual-to-expected validation
+- Rating relativities and model governance
+- Actuarial limitations and business interpretation
 
 ## Key Skills Demonstrated
 
-- P&C loss reserving concepts
-- Loss triangle analysis
-- Chain Ladder methodology
-- Bornhuetter-Ferguson methodology
+- P&C actuarial modeling
+- Loss reserving and insurance pricing
+- Generalized linear models
+- Machine learning model comparison
 - Python data analysis with `pandas` and `numpy`
+- Statistical modeling with `statsmodels` and `scikit-learn`
 - Data visualization with `matplotlib`
-- Actuarial result interpretation and communication
+- Model validation and actuarial communication
 
 ## Repository Status
 
-This repository is still being built out.
-
 Current status:
 
-- Project 1: P&C Loss Reserving
-- Project 2: Auto Insurance Pricing
-- Additional actuarial analytics projects - planned
+- Project 1: P&C Loss Reserving — completed
+- Project 2: Auto Insurance Pure Premium Modeling — completed
+- Additional actuarial analytics projects — planned
+
+## How to View the Projects
+
+Open either notebook directly on GitHub:
+
+- [P&C Loss Reserving](p_and_c_loss_reserving.ipynb)
+- [Auto Insurance Pure Premium Modeling](auto_insurance_pricing_v2.ipynb)
+
+To run the notebooks locally, download or clone the repository, install the required Python packages, and open the notebooks in Jupyter Notebook, JupyterLab, or VS Code.
 
 ## Purpose
 
-The purpose of this repository is to document my actuarial modeling practice and demonstrate applied technical skills relevant to property and casualty insurance work. Each project is intended to combine reproducible Python analysis with clear actuarial explanation.
+The purpose of this repository is to document my actuarial modeling practice and demonstrate applied technical skills relevant to property and casualty insurance work. Each project combines reproducible Python analysis with clear actuarial explanation and practical interpretation.
