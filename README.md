@@ -58,15 +58,6 @@ Current status:
 - Project 2: Auto Insurance Pure Premium Modeling — completed
 - Additional actuarial analytics projects — planned
 
-## How to View the Projects
-
-Open either notebook directly on GitHub:
-
-- [P&C Loss Reserving](p_and_c_loss_reserving.ipynb)
-- [Auto Insurance Pure Premium Modeling](auto_insurance_pricing_v2.ipynb)
-
-To run the notebooks locally, download or clone the repository, install the required Python packages, and open the notebooks in Jupyter Notebook, JupyterLab, or VS Code.
-
 ## Purpose
 
 The purpose of this repository is to document my actuarial modeling practice and demonstrate applied technical skills relevant to property and casualty insurance work. Each project combines reproducible Python analysis with clear actuarial explanation and practical interpretation.
