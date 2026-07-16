@@ -37,25 +37,9 @@ This repository is still being built out.
 
 Current status:
 
-- Project 1: P&C Loss Reserving - completed
-- Project 2: Auto Insurance Pricing - planned / in progress
+- Project 1: P&C Loss Reserving
+- Project 2: Auto Insurance Pricing
 - Additional actuarial analytics projects - planned
-
-## How to View the Project
-
-Open the completed notebook directly on GitHub:
-
-```text
-p_and_c_loss_reserving.ipynb
-```
-
-If running locally, install the core Python packages:
-
-```bash
-pip install pandas numpy matplotlib
-```
-
-Then open the notebook in Jupyter Notebook, JupyterLab, or VS Code.
 
 ## Purpose
 
