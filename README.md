@@ -41,7 +41,7 @@ Key topics:
 
 ## Key Skills Demonstrated
 
-- P&C actuarial modeling
+- Actuarial modeling
 - Loss reserving and insurance pricing
 - Generalized linear models
 - Machine learning model comparison
@@ -54,10 +54,10 @@ Key topics:
 
 Current status:
 
-- Project 1: P&C Loss Reserving — completed
+- Project 1: Loss Reserving — completed
 - Project 2: Auto Insurance Pure Premium Modeling — completed
 - Additional actuarial analytics projects — planned
 
 ## Purpose
 
-The purpose of this repository is to document my actuarial modeling practice and demonstrate applied technical skills relevant to property and casualty insurance work. Each project combines reproducible Python analysis with clear actuarial explanation and practical interpretation.
+The purpose of this repository is to document my actuarial modeling practice and demonstrate applied technical skills. Each project combines reproducible Python analysis with clear actuarial explanation and practical interpretation.
