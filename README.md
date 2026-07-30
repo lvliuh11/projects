@@ -1,6 +1,6 @@
-# P&C Actuarial Project Portfolio
+# Actuarial Project Portfolio
 
-This repository contains completed property and casualty actuarial analytics projects built with Python. The portfolio covers loss reserving and personal auto insurance pricing, combining reproducible modeling workflows with actuarial interpretation and business-oriented communication.
+This repository contains completed actuarial analytics projects built with Python. The portfolio covers loss reserving and personal auto insurance pricing, combining reproducible modeling workflows with actuarial interpretation and business-oriented communication.
 
 ## Completed Projects
 
