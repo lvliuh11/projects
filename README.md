@@ -4,11 +4,11 @@ This repository contains completed property and casualty actuarial analytics pro
 
 ## Completed Projects
 
-### Project 1: P&C Loss Reserving
+### Project 1: Loss Reserving
 
-Notebook: [`p_and_c_loss_reserving.ipynb`](p_and_c_loss_reserving.ipynb)
+Notebook: [`loss_reserving.ipynb`](loss_reserving.ipynb)
 
-This project demonstrates a property and casualty loss reserving workflow using Chain Ladder and Bornhuetter-Ferguson methods. The analysis shows both the technical calculation process and the actuarial interpretation behind reserve estimates.
+This project demonstrates a loss reserving workflow using Chain Ladder and Bornhuetter-Ferguson methods. The analysis shows both the technical calculation process and the actuarial interpretation behind reserve estimates.
 
 Key topics:
 
