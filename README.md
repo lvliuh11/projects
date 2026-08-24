@@ -53,7 +53,7 @@ Key topics:
 Current status:
 
 - Project 1: Loss Reserving — completed
-- Project 2: Auto Insurance Pure Premium Modeling — pending
+- Project 2: Auto Insurance Pure Premium Modeling — refining
 - Additional actuarial analytics projects — planned
 
 ## Purpose
