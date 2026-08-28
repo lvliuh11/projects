@@ -22,6 +22,8 @@ Key topics:
 
 ### Project 2: Auto Insurance Pure Premium Modeling
 
+Notebook: [`auto_insurance_pricing`](auto_insurance_pricing.ipynb)
+
 This project demonstrates an end-to-end personal auto insurance pricing workflow, from policy and claim data preparation through frequency and severity modeling, pure premium estimation, model validation, and actuarial interpretation. It compares traditional actuarial GLMs with machine learning challenger models.
 
 Key topics:
@@ -53,7 +55,7 @@ Key topics:
 Current status:
 
 - Project 1: Loss Reserving — completed
-- Project 2: Auto Insurance Pure Premium Modeling — refining
+- Project 2: Auto Insurance Pure Premium Modeling — completed
 - Additional actuarial analytics projects — planned
 
 ## Purpose
